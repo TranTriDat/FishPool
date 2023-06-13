@@ -1,6 +1,7 @@
 # FishPool
 Java Spring Boot project
 
+<img src="sample/Koi Fish.gif" width="600" height="600" />
 
 ## The pool and the table at the first time 
 ![Fish Pool first look](sample/initUI.png)
